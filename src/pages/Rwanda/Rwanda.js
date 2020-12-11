@@ -1,9 +1,10 @@
 import React from 'react'
 
-export const About = () => {
+export default function Rwanda() {
   return (
     <div>
-      hello from About
+      hello from from rwanda
     </div>
   )
 }
+

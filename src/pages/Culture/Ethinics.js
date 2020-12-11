@@ -1,9 +1,10 @@
 import React from 'react'
 
-export const Dress = () => {
+export default function Ethinics() {
   return (
     <div>
-      hello from Dress
+      hello from Ethinics
     </div>
   )
 }
+

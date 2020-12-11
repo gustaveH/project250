@@ -1,9 +1,9 @@
 import React from 'react'
 
-export const Ethinics = () => {
+export default function Kingdoms() {
   return (
     <div>
-      hello from Ethinics
+      hello from kingdoms
     </div>
   )
 }

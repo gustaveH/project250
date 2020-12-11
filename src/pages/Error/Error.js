@@ -1,9 +1,10 @@
 import React from 'react'
 
-export const Geography = () => {
+export default function error() {
   return (
     <div>
-      hello from Geography
+      hello from Error
     </div>
   )
 }
+

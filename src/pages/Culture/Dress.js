@@ -1,9 +1,10 @@
 import React from 'react'
 
-export const History = () => {
+export default function Dress() {
   return (
     <div>
-      hello from
+      hello from Dress
     </div>
   )
 }
+

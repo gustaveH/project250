@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Playfair Display', serif;
+}
+:root {
+  --primaryColor: #3b3b3b;
+  --secondaryColor: #0088e3;
+  --thirdColor: #52f6b7;
+  --mainBlack: #000000;
+  --mainWhite: #ffffff;
+}
+/* start of Navbar */
+.navbar {
+  background-color: var(--primaryColor);
+}
+.navbar-logo {
+  height: 60px;
+  width: 45%;
+  border-radius: 5px;
+}

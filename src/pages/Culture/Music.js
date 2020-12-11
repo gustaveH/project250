@@ -1,9 +1,10 @@
 import React from 'react'
 
-export const Home = () => {
+export default function Music() {
   return (
     <div>
-      hello from Home page
+      hello from Music
     </div>
   )
 }
+

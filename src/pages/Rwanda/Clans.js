@@ -1,9 +1,10 @@
 import React from 'react'
 
-export const rwanda = () => {
+export default function Clans() {
   return (
     <div>
-      hello from rwanda
+      Hello from clans
     </div>
   )
 }
+

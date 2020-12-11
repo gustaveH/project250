@@ -1,9 +1,10 @@
 import React from 'react'
 
-export const Clans = () => {
+export default function History() {
   return (
     <div>
-      hello from Clans
+      hello from history
     </div>
   )
 }
+
