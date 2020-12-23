@@ -15,7 +15,8 @@ import History from './pages/Rwanda/History';
 import Kingdoms from './pages/Rwanda/Kingdoms';
 import Presidents from './pages/Rwanda/Presidents';
 import Rwanda from './pages/Rwanda/Rwanda';
-import Navigation from './components/Navigation';
+import Navigation from './pages/Navbar/Navigation';
+import Culture from './pages/Culture/Culture';
 
 import { Route, Switch } from 'react-router-dom';
 
@@ -30,7 +31,7 @@ export default class App extends Component {
           <Route exact path='/dress' component={Dress} />
           <Route exact path='/ethnics' component={Ethnics} />
           <Route exact path='/music' component={Music} />
-
+          <Route exact path='/culture' component={Culture} />
           <Route exact path='/genocide' component={Genocide} />
           <Route exact path='/clans' component={Clans} />
           <Route exact path='/constitution' component={Constitution} />

@@ -1,5 +1,5 @@
 import React from 'react';
-import LandingImage from '../images/homeImage.png';
+// import LandingImage from '../images/homeImage.png';
 
 export default function Home() {
   return (
