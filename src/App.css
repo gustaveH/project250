@@ -100,3 +100,12 @@ header .menu:hover {
     width: initial;
   }
 }
+/* End of navbar  */
+/* Landing image */
+.landing-page {
+  background: url('./images/homeImage.jpg') center center/cover no-repeat;
+  height: 100vh;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
